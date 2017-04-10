@@ -1,6 +1,6 @@
 # resources
 
-# General
+## General
 
 * [SCORE Checklists & Step-by-Step Guides (SANS)](https://www.sans.org/score/checklists)
 
