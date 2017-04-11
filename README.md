@@ -36,6 +36,7 @@
 * [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
 * [CCC](https://media.ccc.de/)
 * [Security Tube](http://www.securitytube.net/)
+* [DEFCON](https://www.youtube.com/user/DEFCONConference)
 
 ## Exercises
 
