@@ -14,6 +14,7 @@
 * [Honeynet-Challenges](https://www.honeynet.org/challenges)
 * [Sebek](http://old.honeynet.org/papers/sebek.pdf)
 * [Windows Security Forensics](https://mva.microsoft.com/en-us/training-courses/windows-security-forensics-14383?l=yL98olQsB_2205244527)
+* [Dave Dittrich](https://staff.washington.edu/dittrich/home/forensics.html)
 
 ## Malware Analysis
 
