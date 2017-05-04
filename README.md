@@ -33,6 +33,7 @@
 ## Penetration Testing
 
 * [BSI Study (german only)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/Penetrationstest/penetrationstest_pdf.pdf)
+* https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 
 ## Videos
 
