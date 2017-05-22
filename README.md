@@ -5,6 +5,7 @@
 * [SCORE Checklists & Step-by-Step Guides (SANS)](https://www.sans.org/score/checklists)
 * [CWE Common Weakness Enumeration](http://cwe.mitre.org/index.html)
 * [Vulnhub Resources](https://www.vulnhub.com/resources/)
+* [Samhain Library](http://www.la-samhna.de/library/index.html)
 
 ## Reverse Engineering
 
