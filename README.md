@@ -47,6 +47,7 @@
 
 * [Vulnhub](https://www.vulnhub.com)
 * [Exploit Exercises](https://exploit-exercises.com)
+* [Pentesterlab](https://pentesterlab.com)
 
 ## Legal
 
