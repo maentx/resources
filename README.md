@@ -6,6 +6,7 @@
 * [CWE Common Weakness Enumeration](http://cwe.mitre.org/index.html)
 * [Vulnhub Resources](https://www.vulnhub.com/resources/)
 * [Samhain Library](http://www.la-samhna.de/library/index.html)
+* [OPENSECURITYTRAINING.INFO](http://opensecuritytraining.info)
 
 ## Reverse Engineering
 
@@ -53,8 +54,10 @@
 
 * [BSI Standards](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzStandards/ITGrundschutzStandards_node.html)
 * [BSI IT Grundschutz](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKataloge/itgrundschutzkataloge_node.html)
+* [Umsetzungsplan Bund 2017 - Leitlinie für Informationssicherheit in der Bundesverwaltung](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/it-digitalpolitik/up-bund-2017.html)
 
-
+## Mobile Device Management
+* [10 Steps for Auditing Mobile Computing Security](https://esj.com/Articles/2011/04/12/IT-Auditing-Mobile-Security.aspx?Page=1)
 
 
 
