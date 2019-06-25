@@ -9,8 +9,8 @@
 [Bypass by kasif-dekel with Microsoft reaction](https://github.com/kasif-dekel/Microsoft-Applocker-Bypass)
 
 # Blogs
-https://adsecurity.org
-https://blog.harmj0y.net/
+[https://adsecurity.org]
+[https://blog.harmj0y.net/]
 
 # Group Policy
 [Security Configuration Framework](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-configuration-framework)
