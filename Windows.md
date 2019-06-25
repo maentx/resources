@@ -1,6 +1,5 @@
 # Active Directory
 [Active Directory as Code](https://medium.com/palantir/active-directory-as-code-e9666a2e548d)
-https://adsecurity.org/?p=2362
 
 # AD FS
 [Best Practices for Secure Planning and Deployment of AD FS](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/design/best-practices-for-secure-planning-and-deployment-of-ad-fs)
