@@ -11,5 +11,5 @@
 # Specific Malware Analysis
 
 ## Emotet
-[heisec Emailcheck](https://www.heise.de/security/meldung/Schutz-vor-Emotet-Besserer-Umgang-mit-Doc-Dateien-4452870.html)
-[Sichere Konfiguration von Microsoft Office 2013/2016/2019 (BSI, german)](https://www.allianz-fuer-cybersicherheit.de/ACS/DE/_/downloads/BSI-CS_135.pdf;jsessionid=5C46A127A04007F3ED9058628FE38118.1_cid341?__blob=publicationFile&v=5)
+* [heisec Emailcheck](https://www.heise.de/security/meldung/Schutz-vor-Emotet-Besserer-Umgang-mit-Doc-Dateien-4452870.html)
+* [Sichere Konfiguration von Microsoft Office 2013/2016/2019 (BSI, german)](https://www.allianz-fuer-cybersicherheit.de/ACS/DE/_/downloads/BSI-CS_135.pdf;jsessionid=5C46A127A04007F3ED9058628FE38118.1_cid341?__blob=publicationFile&v=5)
