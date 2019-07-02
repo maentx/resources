@@ -1,6 +1,7 @@
 # Basics
 * [Honeynet Project](https://www.honeynet.org/)
 * [Canarytokens Introduction](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html)
+* [A Virtual Machine Introspection Based Architecture for Intrusion Detection](https://suif.stanford.edu/papers/vmi-ndss03.pdf)
 
 # Papers
 * [The State of Honeypots: Understanding the Use of Honey Technologies Today](https://www.sans.org/reading-room/whitepapers/detection/state-honeypots-understanding-honey-technologies-today-38165)
