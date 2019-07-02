@@ -10,6 +10,7 @@
 [Umsetzungsplan Bund 2017 - Leitlinie für Informationssicherheit in der Bundesverwaltung](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/it-digitalpolitik/up-bund-2017.html)
 
 # Papers
+[SANS Reading Room](https://www.sans.org/reading-room/whitepapers/analyst/)
 [Samhain Library](http://www.la-samhna.de/library/index.html)
 [Vulnhub Resources](https://www.vulnhub.com/resources/)
 
