@@ -14,6 +14,7 @@
 
 # Tools
 * [Sebek](http://old.honeynet.org/papers/sebek.pdf)
+* [xplico (Open Source Network Forensic Analysis Tool (NFAT))](https://www.xplico.org/about)
 
 # Windows
 * [Windows Security Forensics Training by Microsoft](https://mva.microsoft.com/en-us/training-courses/windows-security-forensics-14383?l=yL98olQsB_2205244527)
