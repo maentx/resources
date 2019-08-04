@@ -10,7 +10,6 @@
 
 # Blogs
 https://adsecurity.org
-
 https://blog.harmj0y.net/
 
 # Group Policy
@@ -35,8 +34,9 @@ Common arguments against using an LTSC version as your baseline image:
 [Track Registry Changes](https://www.winhelponline.com/blog/process-monitor-track-events-generate-log-file/)
 [Explore HKLM\SAM and HKLM\SECURITY keys](http://techgenix.com/howtobreakintoregistrytoexplorehklmsamandhklmsecuritykeys/)
 [API to remotely read audit configuration of a Windows client](https://stackoverflow.com/questions/2899128/is-there-an-api-to-remotely-read-a-windows-machines-audit-configuration)
+[Microsoft advice on handling Office documents that contain Dynamic Data Exchange (DDE)](https://docs.microsoft.com/en-us/security-updates/securityadvisories/2017/4053440)
 
-# Old Versions
+# Old Windows Versions
 [Techbench Dump](https://gist.github.com/ppisarczyk/97f66ceda74e756ad44bffbf41967e9e)
 
 # Powershell
@@ -58,12 +58,12 @@ Common arguments against using an LTSC version as your baseline image:
 [Introducing support for Virtualization Based Security and Credential Guard in vSphere 6.7](https://blogs.vmware.com/vsphere/2018/05/introducing-support-virtualization-based-security-credential-guard-vsphere-6-7.html)
 [Check PCs for Device Guard and Credential Guard Support (German)](https://www.windowspro.de/tool/pcs-eignung-fuer-device-guard-credential-guard-pruefen)
 
-## Device Guard
-[Device Guard Overview](https://blogs.technet.microsoft.com/datacentersecurity/2016/09/20/overview-of-device-guard-in-windows-server-2016/)
-[Windows 10 Device Guard and Credential Guard Demystified](https://blogs.technet.microsoft.com/ash/2016/03/02/windows-10-device-guard-and-credential-guard-demystified/)
-[Device Guard: Windows Defender Application Control and virtualization-based protection of code integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/introduction-to-device-guard-virtualization-based-security-and-windows-defender-application-control)
-
 ## Credential Guard
 [Windows Defender Credential Guard: Requirements](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-requirements)
 [Manage Windows Defender Credential Guard](https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage)
 [Credential Guard Support on XenApp and XenDesktop](https://www.citrix.com/blogs/2017/05/23/discover-whats-new-in-xenapp-xendesktop-xenserver-at-synergy-2017/)
+
+## Device Guard
+[Device Guard Overview](https://blogs.technet.microsoft.com/datacentersecurity/2016/09/20/overview-of-device-guard-in-windows-server-2016/)
+[Windows 10 Device Guard and Credential Guard Demystified](https://blogs.technet.microsoft.com/ash/2016/03/02/windows-10-device-guard-and-credential-guard-demystified/)
+[Device Guard: Windows Defender Application Control and virtualization-based protection of code integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/introduction-to-device-guard-virtualization-based-security-and-windows-defender-application-control)

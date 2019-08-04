@@ -8,6 +8,20 @@
 * [REMnux](https://remnux.org/)
 * [Malware Analysis for the Incident Responder (Cisco)](https://blogs.cisco.com/security/malware-analysis-for-the-incident-responder)
 
+## Android
+
+### Repositories for Android Malware
+* [AndroidMalware_2019](https://github.com/sk3ptre/AndroidMalware_2019)
+
+### Tools
+* [Apktool](https://ibotpeaches.github.io/Apktool/)
+* [Androlyze](https://androlyze.readthedocs.io/en/latest/)
+* CuckooDroid: [Github](https://github.com/idanr1986/cuckoo-droid) and [Docs](https://cuckoo-droid.readthedocs.io/en/latest/)
+* [Droidbot](https://github.com/honeynet/droidbot)
+* [Frida](https://www.frida.re/docs/android/)
+* [Smali Emulator](https://github.com/evilsocket/smali_emulator)
+
+
 # Specific Malware Analysis
 
 ## Emotet

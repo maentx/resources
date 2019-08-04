@@ -4,6 +4,7 @@
 * [Digital Forensics and Incident Response](DFIR.md)
 * [Honeypots](Honeypots.md)
 * [Malware Analysis and Reverse Engineering](MARE.md)
+* [Management](Management.md)
 * [Media](Media.md)
 * [Penetration Testing](Pentesting.md)
 * [Threat Hunting](ThreatHunting.md)
