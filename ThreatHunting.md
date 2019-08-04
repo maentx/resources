@@ -14,3 +14,8 @@
 # Evolution
 * [Threat Hunting Report 2017](http://www.cybersecurity-insiders.com/wp-content/uploads/2017/02/2017-Threat-Hunting-Report.pdf)
 * [Threat Hunting Report 2018](https://crowdresearchpartners.com/wp-content/uploads/2018-Threat-Hunting-Report.pdf)
+
+# Tools & Stuff
+* [Unit42 Playbooks](https://pan-unit42.github.io/playbook_viewer)
+* [Mordor](https://posts.specterops.io/enter-mordor-pre-recorded-security-events-from-simulated-adversarial-techniques-fdf5555c9eb1)
+* 

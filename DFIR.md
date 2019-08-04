@@ -18,3 +18,4 @@
 
 # Windows
 * [Windows Security Forensics Training by Microsoft](https://mva.microsoft.com/en-us/training-courses/windows-security-forensics-14383?l=yL98olQsB_2205244527)
+* [Detecting Lateral Movements in Windows Infrastructure](http://cert.europa.eu/static/WhitePapers/CERT-EU_SWP_17-002_Lateral_Movements.pdf)

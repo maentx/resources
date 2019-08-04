@@ -15,3 +15,6 @@
 * [Generic Low Interaction Honeypot Glutton](https://github.com/mushorg/glutton)
 * [Medium-Interaction Honeypot Cowrie](https://github.com/cowrie/cowrie)
 * [Wifi Honey](https://digi.ninja/projects/wifi_honey.php)
+
+# Misc
+* [Using cyber deception to catch entrenched attackers](https://cymmetria.com/blog/using-cyber-deception-to-catch-entrenched-attackers/)
